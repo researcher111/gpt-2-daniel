@@ -1,4 +1,4 @@
-# Daniel and Liam was here
+# --- Daniel and Liam was here
 import numpy as np
 import tensorflow as tf
 from tensorflow.contrib.training import HParams
