@@ -1,5 +1,4 @@
-# --- Daniel and Liam was here
-import numpy as np
+#--- Daniel and Liam was here extra line
 import tensorflow as tf
 from tensorflow.contrib.training import HParams
 
